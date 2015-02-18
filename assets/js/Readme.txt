@@ -1,0 +1,1 @@
+Assets javascript's directory.

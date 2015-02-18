@@ -1,0 +1,1 @@
+The assets folder is also pretty standard. It will contain all the assets needed for your app that are not related your AngularJS code. There are many great ways to organize this directory but they are out of scope for this article. The example above is good enough for most apps.
